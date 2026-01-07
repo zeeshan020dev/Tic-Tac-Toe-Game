@@ -56,4 +56,11 @@ To compile and run this game, you will need a C++ compiler (like g++).
 -   `Player vs Player.txt`: A text file automatically generated to save the state of a Player vs. Player game.
 
 ---
-*This README was generated based on the provided C++ source code.*
+
+## 👤 Author
+
+**[Muhammad Zeeshan Islam](https://github.com/zeeshan020dev)**  
+Co-Founder – Unicodrex | Technical Associate – Skill Sprint
+
+[![GitHub](https://img.shields.io/badge/GitHub-zeeshan020dev-black?logo=github)](https://github.com/zeeshan020dev)
+
